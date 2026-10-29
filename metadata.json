@@ -1,0 +1,6 @@
+{
+  "name": "Investigador Empresarial Colombia",
+  "description": "Asistente especializado en investigación de datos empresariales en Colombia: rastreo en Google de dirección física de notificación, NIT, teléfono actual y fuentes verificadas con estricta política de cero alucinaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
